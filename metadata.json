@@ -1,0 +1,7 @@
+{
+  "name": "AML Security Solutions",
+  "description": "A comprehensive Smart Gate System for condominiums and companies featuring AI-powered facial recognition, document analysis, QR code access, and real-time dashboard monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
